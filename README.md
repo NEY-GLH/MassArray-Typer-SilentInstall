@@ -1,2 +1,3 @@
 # MassArray-Typer-SilentInstall
-Agena Bioscience MassArray Typer deployment script
+Deployment script for the Agena Bioscience MassArray Typer software suite
+
